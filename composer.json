@@ -1,23 +1,19 @@
 {
-    "name": "squizlabs/php_codesniffer",
-    "description": "PHP_CodeSniffer tokenises PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.",
+    "name": "instaclick/php_codesniffer",
+    "description": "(fork) PHP_CodeSniffer tokenises PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.",
     "type": "library",
     "keywords": [
         "phpcs",
         "standards"
     ],
-    "homepage": "http://www.squizlabs.com/php-codesniffer",
+    "homepage": "http://instaclick.com",
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Greg Sherwood",
-            "role": "lead"
+            "name": "Instaclick",
+            "role": "fork maintainer"
         }
     ],
-    "support": {
-        "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name%5B%5D=PHP_CodeSniffer",
-        "source": "https://github.com/squizlabs/PHP_CodeSniffer"
-    },
     "autoload": {
         "classmap": [ "." ]
     },
