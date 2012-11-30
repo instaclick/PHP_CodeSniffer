@@ -1,5 +1,5 @@
 {
-    "name": "instaclick/php_codesniffer",
+    "name": "instaclick/php-code-sniffer",
     "description": "(fork) PHP_CodeSniffer tokenises PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.",
     "type": "library",
     "keywords": [
