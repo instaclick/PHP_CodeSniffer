@@ -1,5 +1,5 @@
 {
-    "name": "squizlabs/php_codesniffer",
+    "name": "instaclick/php_codesniffer",
     "description": "PHP_CodeSniffer tokenises PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.",
     "type": "library",
     "keywords": [
